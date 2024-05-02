@@ -5,6 +5,7 @@
 <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=davidpinheirods&show_icons=true&theme=blueberry&layout=compact" />
 
  </div>
+ 
   ## My Skills
   <a><img src="https://img.shields.io/badge/php-14354C?style=for-the-badge&logo=php&logoColor=white"></a>&nbsp;
   <a><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>&nbsp;
