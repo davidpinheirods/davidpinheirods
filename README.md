@@ -3,31 +3,18 @@
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=davidpinheirods&theme=blueberry&mode=weekly" />
 <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=davidpinheirods&show_icons=true&theme=blueberry&layout=compact" />
+
  </div>
-
-  ##
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="David-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
-  <img align="center" alt="David-MSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
-  <img align="center" alt="David-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
-  <img align="center" alt="David-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
-  <img align="center" alt="David-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
-  <img align="center" alt="David-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
-  <img align="center" alt="David-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
-</div>
-
-  ##
-
   ## My Skills
-  ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-  ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-  ![Java]()&nbsp;
-  ![C]()&nbsp;
-  ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-  ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
-
+  <a><img src="https://img.shields.io/badge/php-14354C?style=for-the-badge&logo=php&logoColor=white"></a>&nbsp;
+  <a><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>&nbsp;
+  <a><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>&nbsp;
+  <a><img src="https://img.shields.io/badge/c-14354C?style=for-the-badge&logo=c&logoColor=white"></a>&nbsp;
+  <a><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></a>&nbsp;
+  <a><img src="https://img.shields.io/badge/Java-14354C?style=for-the-badge&logo=java&logoColor=white"></a>&nbsp;
+  <a target="_blank"><img src="https://img.shields.io/badge/mysql-4285F4?style=for-the-badge&logo=mysql&logoColor=white" target="_blank"></a>&nbsp;
+  <a><img src="https://camo.githubusercontent.com/c3218fd0224c1f4136fc44f47d18b68871d0f614114191544d97954de372bd9a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5653253230436f64652d3030373864372e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d7768697465"></a>&nbsp;
+  <a><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"></a>&nbsp;
 
   ## Contacts:
  
