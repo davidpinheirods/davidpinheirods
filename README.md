@@ -1,10 +1,9 @@
 ### Olá! Eu sou o David Sousa
 
-<!-- Pessoal que veio atrás do **Github Stats:** a API provavelmente saiu do ar nesse período,
-mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance) -->
-
-[![David Sousa GitHub stats](https://github-readme-stats.vercel.app/api?username=davidpinheirods)](https://github.com/davidpinheirods/)
-
+<div  align="center" style="margin-bottom:100px">
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=davidpinheirods&theme=blueberry&mode=weekly" />
+<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=davidpinheirods&show_icons=true&theme=blueberry&layout=compact" />
+ </div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="David-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
@@ -27,6 +26,8 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
    <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   
 </div>
+
+<!--[![David Sousa GitHub stats](https://github-readme-stats.vercel.app/api?username=davidpinheirods)](https://github.com/davidpinheirods/)
 
 
 <!--
