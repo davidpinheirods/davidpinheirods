@@ -5,6 +5,8 @@
 <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=davidpinheirods&show_icons=true&theme=blueberry&layout=compact" />
  </div>
 
+  ##
+
 <div style="display: inline_block"><br>
   <img align="center" alt="David-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
   <img align="center" alt="David-MSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
@@ -14,10 +16,6 @@
   <img align="center" alt="David-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
   <img align="center" alt="David-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
 </div>
-  
-  <div>
-  <p>TESTE</p>
-  </div>
   
   ##
  
